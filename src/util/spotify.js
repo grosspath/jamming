@@ -1,5 +1,5 @@
 const clientId = 'c1dcf252911f42bc90adef48fdb6c153';
-const redirectURI = ' http://jgjamming.s3-website-us-east-1.amazonaws.com';
+const redirectURI = 'http://jgjamming.s3-website-us-east-1.amazonaws.com';
 let accessToken;
 
 const Spotify = {
